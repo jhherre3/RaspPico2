@@ -1,6 +1,6 @@
 # 🧠 Raspberry Pi Pico 2 Projects Repository
 
-![Raspberry Pi Pico 2](https://www.raspberrypi.com/app/uploads/2023/11/Raspberry-Pi-Pico-2.jpg)
+![Raspberry Pi Pico 2](Files/Rasppico2pinout.png)
 
 Welcome to the **Raspberry Pi Pico 2 Projects Repository**!  
 This repository showcases firmware experiments and embedded hardware projects built using the **Raspberry Pi Pico 2**, the second-generation RP2040-based microcontroller board from Raspberry Pi.
