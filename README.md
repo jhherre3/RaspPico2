@@ -9,7 +9,7 @@ This repository showcases firmware experiments and embedded hardware projects bu
 
 ## 🔍 What is the Raspberry Pi Pico 2?
 
-The **Raspberry Pi Pico 2** is a low-cost, high-performance microcontroller development board based on the **RP2040** chip. It is a refined successor to the original Pico, featuring improved silicon, slight hardware upgrades, and maintaining a strong focus on versatility and GPIO access.
+The **Raspberry Pi Pico 2** is a low-cost, high-performance microcontroller development board based on the **RP2350** chip. It is a refined successor to the original Pico, featuring improved silicon, slight hardware upgrades, and maintaining a strong focus on versatility and GPIO access.
 
 🛑 **Note:** This version is **not wireless** — it does **not include Wi-Fi or Bluetooth**. If you're looking for wireless capability, check out the **Pico W 2** instead.
 
